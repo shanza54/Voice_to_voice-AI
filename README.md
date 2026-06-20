@@ -29,6 +29,6 @@ The wrapper is unified inside a fully customized, responsive dark-mode cyberneti
 
 ### 1. Clone the Application Repository
 ```bash
-git clonehttps://github.com/YOUR_USERNAME/Voice_to_voice-AI.git
+git clone https://github.com/shanza54/Voice_to_voice-AI.git
 cd Voice_to_voice-AI
 ```
